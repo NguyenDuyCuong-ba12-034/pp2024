@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH CS/DS/MATH Laziness 
-* Student ID: Not-Vietnamese
+* Student Name: Nguyen duy cuong 
+* Student ID: ba12-034
 
